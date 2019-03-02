@@ -2,4 +2,5 @@
 
 Two PDF versions avaiable for download (different color themes)
 
-![](/Users/tarekatwan/Documents/GitHubRepos/2019-technologies/Emergin Tech.png)
+![](2019-technologies/Emergin Tech.png)
+
